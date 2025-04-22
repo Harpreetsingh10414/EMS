@@ -1,9 +1,9 @@
-package com.projKK.crud.repository;
+package com.otw.ems_backend.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.projKK.crud.entity.employee;
+import com.otw.ems_backend.entity.employee;
 
 @Repository
 

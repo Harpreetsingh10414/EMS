@@ -1,4 +1,4 @@
-package src.main.java.com.otw.ems_backend.entity;
+package com.otw.ems_backend.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

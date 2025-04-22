@@ -1,4 +1,4 @@
-package src.main.java.com.otw.ems_backend.controller;
+package com.otw.ems_backend.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.projKK.crud.entity.employee;
-import com.projKK.crud.service.employeeservice;
+import com.otw.ems_backend.entity.employee;
+import com.otw.ems_backend.service.employeeservice;
 
 import lombok.RequiredArgsConstructor;
 

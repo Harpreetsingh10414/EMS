@@ -1,9 +1,9 @@
-package com.projKK.crud.service;
+package com.otw.ems_backend.service;
 
 import org.springframework.stereotype.Service;
 
-import com.projKK.crud.entity.employee;
-import com.projKK.crud.repository.employeerepository;
+import com.otw.ems_backend.entity.employee;
+import com.otw.ems_backend.repository.employeerepository;
 
 import lombok.RequiredArgsConstructor;
 

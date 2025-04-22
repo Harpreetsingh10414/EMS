@@ -1,4 +1,4 @@
-package src.test.java.com.otw.ems_backend;
+package com.otw.ems_backend;
 
 public @interface SpringBootTest {
 
